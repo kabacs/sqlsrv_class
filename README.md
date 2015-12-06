@@ -1,4 +1,4 @@
-# sqlsrv_class
+# PHP SQLSRV CLASS
 php class to easily handle simple sqlsrv queries
 
 Use methods select, insert, update or delete to simple queries.
